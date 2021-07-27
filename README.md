@@ -9,4 +9,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomariano&theme=dracula)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomariano&langs_count=7&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomariano&hide=ruby&langs_count=7&theme=dracula)]()
