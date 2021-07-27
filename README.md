@@ -5,4 +5,5 @@
 - 🤔 I’m looking for help with ReactJS, JS, TS, Node
 
 
-[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfomariano)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
+[[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfomariano&show_icons=true&theme=radical)
+)
